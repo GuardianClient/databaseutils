@@ -2,7 +2,7 @@
 {
 "name": "PayNow",
 "uuid": "bcf260df-dbd8-4ef8-b915-c2d85d790bea",
-"enabled": "true",
+"enabled": "false",
 "cape-style": "",
 "cape-enabled": "true",
 "hat-enabled": "true",
